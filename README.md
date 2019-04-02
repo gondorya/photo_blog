@@ -14,10 +14,10 @@ ii. Go to backend folder
 `$ python3 -m venv myvenv`
 
 * run virtualenv:
-** Linux, OS X
-`source myvenv/bin/activate`
-** Windows
-`C:\Users\Name\djangogirls> myvenv\Scripts\activate`
+  * Linux, OS X
+  `source myvenv/bin/activate`
+  * Windows
+  `C:\Users\Name\djangogirls> myvenv\Scripts\activate`
 
 * install Django:
 `(myvenv) ~$ python -m pip install --upgrade pip`
