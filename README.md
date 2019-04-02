@@ -15,10 +15,7 @@ Setup:
 `$ python3 -m venv myvenv`
 
 * run virtualenv:
-  * Linux, OS X
-  `source myvenv/bin/activate`
-  * Windows
-  `C:\Users\Name\projectPath> myvenv\Scripts\activate`
+ `source myvenv/bin/activate`
 
 * install Django:
 `(myvenv) ~$ python -m pip install --upgrade pip`
