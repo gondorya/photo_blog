@@ -4,13 +4,13 @@ Simple blogging app with Django and Angular
 
 Setup:
 
-i. Go to frontend/blog folder
+1. Go to frontend/blog folder
 * install npm packages
 `npm install`
 * run project
 `ng build --prod --output-path ../../backend/blog/static/ang --watch --output-hashing none`
 
-ii. Go to backend folder
+2. Go to backend folder
 * create virtualenv:
 `$ python3 -m venv myvenv`
 
