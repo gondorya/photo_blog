@@ -23,5 +23,8 @@ ii. Go to backend folder
 `(myvenv) ~$ python -m pip install --upgrade pip`
 `pip install -r requirements.txt`
 
+* create superuser:
+`python manage.py createsuperuser`
+
 * run project:
 `python manage.py runserver`
