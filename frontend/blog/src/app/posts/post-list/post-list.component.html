@@ -1,3 +1,7 @@
-<p>
-  post-list works!
-</p>
+<ul class="post-list">
+  <li
+    class="post-list__item"
+    app-post-item *ngFor="let post of posts"
+    [post]="post"
+  ></li>
+</ul>
