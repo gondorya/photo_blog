@@ -18,7 +18,7 @@ Setup:
   * Linux, OS X
   `source myvenv/bin/activate`
   * Windows
-  `C:\Users\Name\djangogirls> myvenv\Scripts\activate`
+  `C:\Users\Name\projectPath> myvenv\Scripts\activate`
 
 * install Django:
 `(myvenv) ~$ python -m pip install --upgrade pip`
