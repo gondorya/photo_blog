@@ -3,6 +3,7 @@
 Simple blogging app with Django and Angular
 
 Setup:
+
 i. Go to frontend/blog folder
 * install npm packages
 `npm install`
